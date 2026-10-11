@@ -107,7 +107,7 @@ Equivalent to scanning approximately 65,535 ports.
 
 ---
 
-### `--aggressiveness`
+### `--timing`
 
 Select the Nmap timing profile.
 
@@ -121,7 +121,7 @@ Planned values:
 
 Example:
 
-`--aggressiveness 2`
+`--timing 2`
 
 ---
 
