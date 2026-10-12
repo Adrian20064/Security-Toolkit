@@ -340,68 +340,11 @@ This module is intended for educational and authorized security research.
 
 ---
 
-# Planned Architecture
+## Project Flow
 
-User Input
+The following diagram shows the general workflow of Security Toolkit:
 
-↓
-
-Argument Parser
-
-↓
-
-Target / Input Validation
-
-↓
-
-Nmap Command Builder
-
-↓
-
-Python Subprocess
-
-↓
-
-Native Nmap Binary
-
-↓
-
-XML Output
-
-↓
-
-Python Parser
-
-↓
-
-Normalized Scan Data
-
-↓
-
-- JSON
-- CSV
-- HTML
-- Scan History
-- Flask Dashboard
-
----
-
-# Project Status
-
-**Current stage:** Planning / Early Development
-
-Planned development order:
-
-1. Command-line interface
-2. Target validation
-3. Nmap command builder
-4. Subprocess execution
-5. XML parsing
-6. JSON and CSV reporting
-7. Project workspaces
-8. Scan history and comparison
-9. Flask web interface
-10. Steganography module
+![Security Toolkit Flowchart](docs/Diagrama%20de%20flujo%20del%20kit%20de%20seguridad.png)
 
 ---
 
