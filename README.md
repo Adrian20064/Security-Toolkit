@@ -349,7 +349,7 @@ The following diagram shows the general workflow of Security Toolkit:
 ---
 ## Connection Between Files and Directories
 
-![Security Toolkit File and Directory Flow](docs/connection-files-directories.png)
+![Security Toolkit File and Directory Flow](docs/conection-files-directories.png)
 
 ---
 
