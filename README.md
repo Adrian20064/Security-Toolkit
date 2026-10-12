@@ -14,7 +14,7 @@ The main goal is to simplify repetitive Nmap workflows while learning how Nmap b
 - Learn how to execute and manage the native Nmap binary using Python subprocesses.
 - Generate structured reports from scan results.
 - Compare new scan results with previous ones and avoid unnecessary duplicated data.
-- Use steganography techniques to embed and extract messages, files, images, or report data in controlled environments.
+- Use steganography techniques to embed and extract messages, files, images, or report data in controlled environments. JUST FOR HTML REPORTS.
 - Build a modular security toolkit that can later include additional cybersecurity utilities.
 
 ---
