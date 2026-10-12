@@ -347,6 +347,11 @@ The following diagram shows the general workflow of Security Toolkit:
 ![Security Toolkit Flowchart](docs/Diagrama%20de%20flujo%20del%20kit%20de%20seguridad.png)
 
 ---
+## Connection Between Files and Directories
+
+![Security Toolkit File and Directory Flow](docs/connection-files-directories.png)
+
+---
 
 ## Disclaimer
 
